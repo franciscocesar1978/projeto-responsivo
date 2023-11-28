@@ -66,11 +66,11 @@ button {
 }
 
 button:hover {
-    opacity: .8;
+    opacity: 0.8;
 }
 
 button:active {
-    opacity: .5;
+    opacity: 0.5;
 }
 
 a {
